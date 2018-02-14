@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_Login,,,2018-01-25 10:52:45,2018-01-25 11:01:24,8m - 39.475s,FAILED
+,,,,,,
+Test Cases/Login iOS,,,2018-01-25 10:52:46,2018-01-25 11:01:23,8m - 37.558s,FAILED
+startApplication,,,2018-01-25 10:52:46,2018-01-25 11:01:23,8m - 36.877s,FAILED

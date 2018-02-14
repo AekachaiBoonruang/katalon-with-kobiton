@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_Login" time="35" tests="0" failures="1" errors="0">
+   <testsuite name="TS_Login" tests="0" failures="1" errors="0" time="35" timestamp="2018-01-25 11:59:15" hostname="aekachaiboonruang - 192.168.2.30" id="Test Suites/TS_Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/aekachaiboonruang/Katalon Studio/mobile/Reports/TS_Login/20180125_115910"/>
+         <property name="logFiles" value="/Users/aekachaiboonruang/Katalon Studio/mobile/Reports/TS_Login/20180125_115910/appium-proxy-server.log, /Users/aekachaiboonruang/Katalon Studio/mobile/Reports/TS_Login/20180125_115910/appium.log, /Users/aekachaiboonruang/Katalon Studio/mobile/Reports/TS_Login/20180125_115910/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="aekachaiboonruang - 192.168.2.30"/>
+         <property name="hostAddress" value="192.168.2.30"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+      </properties>
+      <testcase name="Test Cases/Detail Checklist iOS" classname="Test Cases/Detail Checklist iOS" status="FAILED">
+         <failure type="FAILED" message="Unable to start app at: '/Users/aekachaiboonruang/Desktop/DEV-Arbotena.app' (Root cause: com.kms.katalon.core.appium.exception.AppiumStartException: Fail to start Appium server in 30 seconds)"/>
+         <system-out><![CDATA[2018-01-25 11:59:15 - [TEST_CASE][FAILED] - Test Cases/Detail Checklist iOS: Test Cases/Detail Checklist iOS FAILED because (of) Unable to start app at: '/Users/aekachaiboonruang/Desktop/DEV-Arbotena.app' (Root cause: com.kms.katalon.core.appium.exception.AppiumStartException: Fail to start Appium server in 30 seconds)
+
+2018-01-25 11:59:15 - [TEST_STEP][FAILED] - startApplication: Unable to start app at: '/Users/aekachaiboonruang/Desktop/DEV-Arbotena.app' (Root cause: com.kms.katalon.core.appium.exception.AppiumStartException: Fail to start Appium server in 30 seconds)
+
+2018-01-25 11:59:50 - [MESSAGE][FAILED] - Unable to start app at: '/Users/aekachaiboonruang/Desktop/DEV-Arbotena.app' (Root cause: com.kms.katalon.core.appium.exception.AppiumStartException: Fail to start Appium server in 30 seconds)]]></system-out>
+         <system-err><![CDATA[2018-01-25 11:59:15 - [TEST_CASE][FAILED] - Test Cases/Detail Checklist iOS: Test Cases/Detail Checklist iOS FAILED because (of) Unable to start app at: '/Users/aekachaiboonruang/Desktop/DEV-Arbotena.app' (Root cause: com.kms.katalon.core.appium.exception.AppiumStartException: Fail to start Appium server in 30 seconds)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-01-25 11:59:15 - [TEST_SUITE][FAILED] - TS_Login: Test Cases/Detail Checklist iOS FAILED because (of) Unable to start app at: '/Users/aekachaiboonruang/Desktop/DEV-Arbotena.app' (Root cause: com.kms.katalon.core.appium.exception.AppiumStartException: Fail to start Appium server in 30 seconds)]]></system-out>
+      <system-err><![CDATA[2018-01-25 11:59:15 - [TEST_SUITE][FAILED] - TS_Login: Test Cases/Detail Checklist iOS FAILED because (of) Unable to start app at: '/Users/aekachaiboonruang/Desktop/DEV-Arbotena.app' (Root cause: com.kms.katalon.core.appium.exception.AppiumStartException: Fail to start Appium server in 30 seconds)]]></system-err>
+   </testsuite>
+</testsuites>

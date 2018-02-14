@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_Login" time="73" tests="1" failures="0" errors="0">
+   <testsuite name="TS_Login" tests="1" failures="0" errors="0" time="73" timestamp="2018-02-01 10:55:30" hostname="aekachaiboonruang - 192.168.3.6" id="Test Suites/TS_Login">
+      <properties>
+         <property name="deviceName" value="iPhone 8"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/aekachaiboonruang/Katalon Studio/mobile/Reports/TS_Login/20180201_105528"/>
+         <property name="logFiles" value="/Users/aekachaiboonruang/Katalon Studio/mobile/Reports/TS_Login/20180201_105528/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="aekachaiboonruang - 192.168.3.6"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+         <property name="deviceOS" value="iOS"/>
+         <property name="appiumVersion" value="1.6.3"/>
+         <property name="deviceModel" value="null"/>
+         <property name="hostAddress" value="192.168.3.6"/>
+         <property name="deviceManufacturer" value="null"/>
+         <property name="deviceId" value="null"/>
+         <property name="deviceName" value="iPhone 8"/>
+         <property name="deviceOSVersion" value="11.0"/>
+      </properties>
+      <testcase name="Test Cases/iOSwithKobiton" classname="Test Cases/iOSwithKobiton" status="PASSED">
+         <system-out><![CDATA[2018-02-01 10:55:30 - [TEST_CASE][PASSED] - Test Cases/iOSwithKobiton: Test Cases/iOSwithKobiton
+
+2018-02-01 10:55:30 - [TEST_STEP][PASSED] - startApplication: Started app at: 'kobiton-store:5700'
+
+2018-02-01 10:55:54 - [MESSAGE][PASSED] - Started app at: 'kobiton-store:5700'
+
+2018-02-01 10:55:54 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Login iOS/XCUIElementTypeButton - Alerts'
+
+2018-02-01 10:55:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '1,000'
+
+2018-02-01 10:56:01 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Login iOS/XCUIElementTypeButton - Alerts'
+
+2018-02-01 10:56:01 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Login iOS/XCUIElementTypeButton - Create App Alert'
+
+2018-02-01 10:56:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '1,000'
+
+2018-02-01 10:56:09 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Login iOS/XCUIElementTypeButton - Create App Alert'
+
+2018-02-01 10:56:09 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Login iOS/XCUIElementTypeButton - Will do'
+
+2018-02-01 10:56:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '1,000'
+
+2018-02-01 10:56:17 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Login iOS/XCUIElementTypeButton - Will do'
+
+2018-02-01 10:56:18 - [TEST_STEP][PASSED] - setText: Text 'eeeee' has been set to element 'Object Repository/Login iOS/XCUIElementTypeTextField - textField'
+
+2018-02-01 10:56:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '1,000'
+
+2018-02-01 10:56:27 - [MESSAGE][PASSED] - Text 'eeeee' has been set to element 'Object Repository/Login iOS/XCUIElementTypeTextField - textField'
+
+2018-02-01 10:56:27 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Login iOS/XCUIElementTypeButton - Back'
+
+2018-02-01 10:56:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '1,000'
+
+2018-02-01 10:56:41 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Login iOS/XCUIElementTypeButton - Back'
+
+2018-02-01 10:56:41 - [TEST_STEP][PASSED] - closeApplication: Close app successfully
+
+2018-02-01 10:56:43 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-02-01 10:55:30 - [TEST_SUITE][PASSED] - TS_Login: Test Cases/iOSwithKobiton]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
