@@ -1,5 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
-TS_Login,,,2018-02-01 10:54:33,2018-02-01 10:54:38,4.752s,FAILED
-,,,,,,
-Test Cases/iOSwithKobiton,,,2018-02-01 10:54:34,2018-02-01 10:54:38,4.556s,FAILED
-startApplication,,,2018-02-01 10:54:34,2018-02-01 10:54:38,4.323s,FAILED

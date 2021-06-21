@@ -1,7 +1,0 @@
-[Appium] Welcome to Appium v1.7.1
-[Appium] Non-default server args:
-[Appium]   port: 51866
-[Appium]   chromeDriverPort: 51867
-[Appium]   tmpDir: /var/folders/nm/yp1xh6b12dg_c2mz4s8k90n40000gq/T//Katalon/Appium/Temp1516856419648
-[Appium]   webkitDebugProxyPort: 51861
-[Appium] Appium REST http interface listener started on 0.0.0.0:51866
